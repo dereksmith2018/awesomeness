@@ -11,9 +11,11 @@ h2{
 .lunch{
   text-align: center;
   color: blue;
+  margin-bottom: 100px;
 }
 
 .food{
   text-align: center;
   color: red;
+  margin-top: 100px;
 }
