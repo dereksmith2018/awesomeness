@@ -1,0 +1,21 @@
+body {
+  background-color: #d1d1e0;
+  font-family: helvetica;
+}
+.about {
+  color: #006
+}
+.education {
+  font-style: italic;
+}
+.work {
+  color: #006
+}
+.reference {
+  font-style: italic;
+}
+.important {
+  font-style: italic;
+  font-weight: bold;
+  color: crimson;
+}
